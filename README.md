@@ -18,5 +18,5 @@
       } 
 
 ---
-**Note: I will not provide support for this code. Please refrain from DMing me regarding where to place it. Use a little bit of your brain, its very straightforward.**
-**Credits:** I honestly have no clue who originally created the code, but it has spread to many places. Therefore, I decided to share it on GitHub.
+- **Note: I will not provide support for this code. Please refrain from DMing me regarding where to place it. Use a little bit of your brain, its very straightforward.**
+- **Credits:** I honestly have no clue who originally created the code, but it has spread to many places. Therefore, I decided to share it on GitHub.
